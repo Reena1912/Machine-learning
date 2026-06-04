@@ -1,6 +1,6 @@
 # Linear Regression - Simple Explanation
 
-## 🎯 What is Linear Regression?
+##  What is Linear Regression?
 
 Linear regression is a machine learning algorithm that **finds a straight line** that best fits your data. It's used for **predicting continuous values** (like price, temperature, salary).
 
@@ -48,7 +48,7 @@ If the equation is: `Price = 0.1 × Size + 100`
 
 ---
 
-## 🔄 Step-by-Step Process
+##  Step-by-Step Process
 
 ### Step 1: Collect Data
 Gather historical data with both inputs and outputs.
@@ -81,7 +81,7 @@ Check how good the model is using metrics like RMSE, MAE, R²
 
 ---
 
-## 📊 Performance Metrics (How Good is the Model?)
+##  Performance Metrics (How Good is the Model?)
 
 ### 1. **RMSE (Root Mean Squared Error)**
 - Average prediction error
@@ -110,7 +110,7 @@ Check how good the model is using metrics like RMSE, MAE, R²
 
 ---
 
-## 🎓 Advantages & Disadvantages
+##  Advantages & Disadvantages
 
 ### ✅ Advantages:
 1. **Simple** - Easy to understand and implement
@@ -125,7 +125,7 @@ Check how good the model is using metrics like RMSE, MAE, R²
 
 ---
 
-## 🔍 How to Check if Linear Regression is Right?
+##  How to Check if Linear Regression is Right?
 
 **Plot your data and ask:**
 
@@ -143,7 +143,7 @@ Check how good the model is using metrics like RMSE, MAE, R²
 
 ---
 
-## 💡 Real-World Examples
+##  Real-World Examples
 
 ### Example 1: House Prices
 ```
@@ -168,7 +168,7 @@ Model: Predicts temperature based on time
 
 ---
 
-## 🚀 Tips for Better Results
+##  Tips for Better Results
 
 1. **Clean your data** - Remove errors and inconsistencies
 2. **Check for outliers** - Data points that don't fit the pattern
@@ -179,17 +179,21 @@ Model: Predicts temperature based on time
 
 ---
 
-## 📝 Common Mistakes to Avoid
+##  Common Mistakes to Avoid
 
 ❌ Using all data for training (no test data)
+
 ❌ Ignoring outliers
+
 ❌ Not checking if data is actually linear
+
 ❌ Overfitting (model memorizes data instead of learning)
+
 ❌ Not normalizing features
 
 ---
 
-## 🎬 Let's Run the Code!
+##  Let's Run the Code!
 
 ```bash
 python linear_regression_guide.py
@@ -207,7 +211,7 @@ The output will show you EXACTLY how linear regression works step-by-step!
 
 ---
 
-## 📚 Quick Reference
+##  Quick Reference
 
 | Concept | Meaning |
 |---------|---------|
@@ -222,7 +226,7 @@ The output will show you EXACTLY how linear regression works step-by-step!
 
 ---
 
-## 🎯 Key Takeaway
+##  Key Takeaway
 
 **Linear Regression finds a straight line that best represents your data, so you can predict new values based on patterns in old data.**
 
@@ -231,4 +235,3 @@ It's like drawing a line through scattered points and saying:
 
 ---
 
-Made with ❤️ for beginners learning Machine Learning!
